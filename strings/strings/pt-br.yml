@@ -39,7 +39,7 @@ userlogs_1: "O Id do Chat que você definiu no Tag Logger está errado, por favo
 userlogs_2: "Adicione-me ao Chat para Registrar quando for Mencionado "
 userlogs_3: "Sair do Chat"
 userlogs_4: "Seu Assist Bot pode enviar mensagens no chat de registro de Menções.\nAdicione-o para obter seus registros de Menções.."
-userlogs_5: "Esquerda `{}`"
+userlogs_5: "Saiu de `{}`"
 
 #admintools
 adm_1: "\"Eu não conseguir encontra-lo!\""
