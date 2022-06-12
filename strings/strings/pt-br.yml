@@ -350,7 +350,7 @@ mdi_1: "Informações Detalhadas"
 
 # nightmode
 nightm_1: "Informe o Tempo no formato correto"
-nightm_2: "Horário acertado com sucesso"
+nightm_2: "Horário corrigido com sucesso"
 nightm_3: "Feito, Adicionado o Chat atual ao Modo Noturno"
 nightm_4: "Feito, Chat atual Removido Do Modo Noturno"
 nightm_5: "Algo deu errado"
